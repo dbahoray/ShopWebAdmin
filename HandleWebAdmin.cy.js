@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 describe('Handle Customer Table', () =>{
 
     beforeEach('Login', () =>{
